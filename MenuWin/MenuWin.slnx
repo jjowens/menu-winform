@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="MenuWin.csproj" />
+  <Project Path="../MenuWin.Library.Controls/MenuWin.Library.Controls.csproj" Id="77e3c21b-ab4a-4f0d-94db-8ac652a0276c" />
+  <Project Path="../MenuWinTests/MenuWinTests.csproj" Id="af39a4f5-3141-485a-8678-536542236b32" />
+  <Project Path="MenuWin.csproj" Id="060a96dd-30af-46c3-b3e0-f413ccd2556f" />
 </Solution>
